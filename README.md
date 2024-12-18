@@ -6,7 +6,7 @@ DERS BİLGİLERİ
 
 Amaç: Bu ders mikroişlemcilerin temel çalışma prensiplerini, mimari yapılarını ve uygulama alanlarını öğretmeyi amaçlamaktadır. Öğrencilere hem klasik mikroişlemci mimarilerinin çalışma mantığını hem de quantum bilgisayar teknolojilerinin temellerini kazandırarak, modern bilişim dünyasının gerekliliklerine uygun bir altyapı oluşturmak hedeflenmektedir. Ayrıca, ders kapsamında quantum algoritmalarının ve yapay zeka ile desteklenen quantum hesaplama tekniklerinin uygulama alanlarına değinilecektir.  
 
-İçerik:  Bu dersin içeriği, Hafta 1-6: Sayısal bilgisayar sistemlerinin blok şeması, mikroişlemcilerin ve mikrodenetleyicilerin temel bileşenleri, mikroişlemci mimarileri ve temel zamanlayıcı işlevleri ile ilgili teorik bilgi, Hafta 8-10: Farklı mikroişlemci ailelerinin (Motorola, Intel) mimarileri ve özellikleri, Hafta 11-12: Proje uygulamaları ile mikroişlemci kullanımı ve gömülü sistem tasarımı ve  Hafta 7 ve 14: Ara sınav ve final değerlendirmesidir.
+İçerik:  Bu dersin içeriği, Hafta 1-6: Sayısal bilgisayar sistemlerinin blok şeması, mikroişlemcilerin ve mikrodenetleyicilerin temel bileşenleri, mikroişlemci mimarileri ve temel zamanlayıcı işlevleri ile ilgili teorik bilgi, Hafta 8-10: Farklı mikroişlemci ailelerinin (Motorola, Intel) mimarileri ve özellikleri, Hafta 11: İntel 8088 & 8086 Mikroişlemci mimarileri, Hafta 12: STM32F407 Mikroişlemci mimarisi, Hafta 13-14: quantum bilgisayarların mimari yapısı, quantum hesaplama temelleri ve quantum algoritmaları ele alınır. Hafta 7 ve 15: Ara sınav ve final değerlendirmesidir.
 
 DERSİN ÖĞRENME ÇIKTILARI
 
