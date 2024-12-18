@@ -18,3 +18,4 @@ Von Neuman ve Harvard mimarileri arasındaki farkları kavrayarak, mikroişlemci
 Giriş/çıkış birimlerini ve GPIO yapılandırmasını kullanarak mikroişlemci tabanlı temel bir sistem tasarlayabilme.
 PWM, ADC ve kesme mekanizmalarının (interrupt) işleyişini açıklayabilme.
 SPI, I2C, UART, USB ve CAN-Bus gibi iletişim protokollerini açıklayarak, bunların kullanım alanlarını belirleyebilme.
+Motorola, Intel ve MC68000 gibi farklı mikroişlemci ailelerinin mimari özelliklerini ve iç yapısını inceleyebilme.
