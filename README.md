@@ -38,3 +38,8 @@ HAFTALIK DERS KONULARI
 13. Hafta - Quantum Bilgisayar Mimarisi ve Uygulamaları (Mimarisi, Hesaplama Temelleri)
 14. Hafta - Quantum Bilgisayar Mimarisi ve Uygulamaları (Algoritmaları, YZ destekli hesaplamalar)
 15. Hafta - Final Sınavı Haftası
+
+
+KAYNAKLAR  
+Prof. Dr. Eşref Adalı, "Mikroişlemciler Mikrobilgisayarlar". Birsen Yayınları. 2004.  
+
