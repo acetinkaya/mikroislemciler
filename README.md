@@ -24,7 +24,7 @@ Uygulama projeleri ile gömülü sistemlerin tasarım ve gerçeklenmesini yapabi
 HAFTALIK DERS KONULARI
 1. Hafta - Sayısal Bilgisayarın Blok Şeması, Mantıksal Operatörler, Mikrodenetleyici ve Mikrodenetleyici Kavramları, Mikrodenetleyici ve Mikrodenetleyici Arasındaki Farklar, Mikrodenetleyici ve Mikrodenetleyici Arasındaki Avantaj ve Dezavantaj, Gömülü Sistem Kavramı ve Kullanım alanları   
 2. Hafta - Mikroişlemciler  gerçekleştirdiği fonksiyonlar ve genel çalışması, Kodlayıcılar ve kod çözücülerin işleyişi ve kullanımı
-3. Hafta - BM Uygulama Projesinin Belirlenmesi, Proje İşlem Adımlarının Oluşturulması, Bulanık Küme Kavramı ve Kural Tabanı
+3. Hafta - Sayısal Entegreler ve Mikroişlemciyi oluşturan bileşenler (RAM, ROM, ALU, CPU, REGISTERS, ADC, DMA, USART, SPI, i2C, DAC, TIMER, PWM, ADRESS BUS, DATA BUS, CONTROL BUS, IO, INTERRUPT)
 4. Hafta - BM Üyelik Fonksiyonları (Üçgen, Yamuk, Gaussian, Sigmoid), Sözel Değişkenler ve IF-THEN kuralları
 5. Hafta - BM üzerinde; Giriş Çıkış Değişkenlerin Tanımlanması, Üyelik İşlemleri, Bulandırma
 6. Hafta - BM üzerinde; Bulanık Çıkarım (Mamdani, Sugeno, Tsukatomo), Bulanık Kuralların Belirlenmesi
