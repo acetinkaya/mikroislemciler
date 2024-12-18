@@ -32,7 +32,7 @@ HAFTALIK DERS KONULARI
 8. Hafta - Motorola MC6800 Mikroişlemci Ailesi
 9. Hafta - Intel 8080 Mikroişlemci Ailesi
 10. Hafta - MC68000 Mikroişlemci Ailesi
-11. Hafta - Bulanık Mantık ve Python Uygulaması - 2
+11. Hafta - İntel 8088 & 8086 Mikroişlemcilerinin iç-yapı mimarisi
 12. Hafta - Bulanık Mantık ve Python Uygulaması - 3
 13. Hafta - Bulanık Mantık ve Python Uygulaması - 4
 14. Hafta - BM Dersi Öğrenci Uygulama Projelerinin Sunumları
