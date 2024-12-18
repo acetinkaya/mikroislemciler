@@ -42,4 +42,5 @@ HAFTALIK DERS KONULARI
 
 KAYNAKLAR  
 Prof. Dr. Eşref Adalı, "Mikroişlemciler Mikrobilgisayarlar". Birsen Yayınları. 2004.  
+M. Morris Mano , Abdüssamet Marşoğlu (Çevirmen) , Nurşen Suçsuz (Çevirmen) "Bilgisayar Sistemleri Mimarisi", Literatür Yayıncılık, 2002.
 
