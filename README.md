@@ -4,7 +4,7 @@ MİKROİŞLEMCİLER - MICROPROCESSORS DERS İÇERİĞİ
 
 DERS BİLGİLERİ   
 
-Amaç: Bu dersin amacı,  sayısal bilgisayar mimarisini, mikroişlemci ve mikrodenetleyici sistemlerinin yapısını, işlevlerini ve kullanım alanlarını öğretmektir. Öğrenciler, mikroişlemci ve mikrodenetleyiciler arasındaki farkları, bu sistemlerin çalışma prensiplerini ve çeşitli haberleşme protokollerini öğrenerek gömülü sistem tasarımı ve uygulamalarına dair sağlam bir temel kazanacaktır.   
+Amaç: Bu ders mikroişlemcilerin temel çalışma prensiplerini, mimari yapılarını ve uygulama alanlarını öğretmeyi amaçlamaktadır. Öğrencilere hem klasik mikroişlemci mimarilerinin çalışma mantığını hem de quantum bilgisayar teknolojilerinin temellerini kazandırarak, modern bilişim dünyasının gerekliliklerine uygun bir altyapı oluşturmak hedeflenmektedir. Ayrıca, ders kapsamında quantum algoritmalarının ve yapay zeka ile desteklenen quantum hesaplama tekniklerinin uygulama alanlarına değinilecektir.  
 
 İçerik:  Bu dersin içeriği, Hafta 1-6: Sayısal bilgisayar sistemlerinin blok şeması, mikroişlemcilerin ve mikrodenetleyicilerin temel bileşenleri, mikroişlemci mimarileri ve temel zamanlayıcı işlevleri ile ilgili teorik bilgi, Hafta 8-10: Farklı mikroişlemci ailelerinin (Motorola, Intel) mimarileri ve özellikleri, Hafta 11-12: Proje uygulamaları ile mikroişlemci kullanımı ve gömülü sistem tasarımı ve  Hafta 7 ve 14: Ara sınav ve final değerlendirmesidir.
 
@@ -19,7 +19,7 @@ Giriş/çıkış birimlerini ve GPIO yapılandırmasını kullanarak mikroişlem
 PWM, ADC ve kesme mekanizmalarının (interrupt) işleyişini açıklayabilme.  
 SPI, I2C, UART, USB ve CAN-Bus gibi iletişim protokollerini açıklayarak, bunların kullanım alanlarını belirleyebilme.  
 Motorola, Intel ve MC68000 gibi farklı mikroişlemci ailelerinin mimari özelliklerini ve iç yapısını inceleyebilme.  
-Uygulama projeleri ile gömülü sistemlerin tasarım ve gerçeklenmesini yapabilme.  
+Quantum hesaplama temellerini öğrenerek quantum bilgisayarların klasik bilgisayarlardan farklarını kavrayabilir.
 
 HAFTALIK DERS KONULARI
 1. Hafta - Sayısal Bilgisayarın Blok Şeması, Mantıksal Operatörler, Mikrodenetleyici ve Mikrodenetleyici Kavramları, Mikrodenetleyici ve Mikrodenetleyici Arasındaki Farklar, Mikrodenetleyici ve Mikrodenetleyici Arasındaki Avantaj ve Dezavantaj, Gömülü Sistem Kavramı ve Kullanım alanları   
