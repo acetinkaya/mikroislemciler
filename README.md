@@ -15,3 +15,4 @@ Sayısal bilgisayarın blok şeması ve mantıksal operatörleri açıklayabilme
 Mikroişlemci ve mikrodenetleyici arasındaki temel farkları ve bu yapıların avantaj/dezavantajlarını karşılaştırabilme.
 Mikroişlemci bileşenlerini (RAM, ROM, CPU, vb.) tanımlayabilme ve her bir bileşenin işlevini açıklayabilme.
 Von Neuman ve Harvard mimarileri arasındaki farkları kavrayarak, mikroişlemci mimarilerini değerlendirebilme.
+Giriş/çıkış birimlerini ve GPIO yapılandırmasını kullanarak mikroişlemci tabanlı temel bir sistem tasarlayabilme.
