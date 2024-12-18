@@ -15,11 +15,11 @@ Sayısal bilgisayarın blok şeması ve mantıksal operatörleri açıklayabilme
 Mikroişlemci ve mikrodenetleyici arasındaki temel farkları ve bu yapıların avantaj/dezavantajlarını karşılaştırabilme.  
 Mikroişlemci bileşenlerini (RAM, ROM, CPU, vb.) tanımlayabilme ve her bir bileşenin işlevini açıklayabilme.  
 Von Neuman ve Harvard mimarileri arasındaki farkları kavrayarak, mikroişlemci mimarilerini değerlendirebilme.  
-Giriş/çıkış birimlerini ve GPIO yapılandırmasını kullanarak mikroişlemci tabanlı temel bir sistem tasarlayabilme.
-PWM, ADC ve kesme mekanizmalarının (interrupt) işleyişini açıklayabilme.
-SPI, I2C, UART, USB ve CAN-Bus gibi iletişim protokollerini açıklayarak, bunların kullanım alanlarını belirleyebilme.
-Motorola, Intel ve MC68000 gibi farklı mikroişlemci ailelerinin mimari özelliklerini ve iç yapısını inceleyebilme.
-Uygulama projeleri ile gömülü sistemlerin tasarım ve gerçeklenmesini yapabilme.
+Giriş/çıkış birimlerini ve GPIO yapılandırmasını kullanarak mikroişlemci tabanlı temel bir sistem tasarlayabilme.  
+PWM, ADC ve kesme mekanizmalarının (interrupt) işleyişini açıklayabilme.  
+SPI, I2C, UART, USB ve CAN-Bus gibi iletişim protokollerini açıklayarak, bunların kullanım alanlarını belirleyebilme.  
+Motorola, Intel ve MC68000 gibi farklı mikroişlemci ailelerinin mimari özelliklerini ve iç yapısını inceleyebilme.  
+Uygulama projeleri ile gömülü sistemlerin tasarım ve gerçeklenmesini yapabilme.  
 
 HAFTALIK DERS KONULARI
 1. Hafta - Sayısal Bilgisayarın Blok Şeması, Mantıksal Operatörler, Mikrodenetleyici ve Mikrodenetleyici Kavramları, Mikrodenetleyici ve Mikrodenetleyici Arasındaki Farklar, Mikrodenetleyici ve Mikrodenetleyici Arasındaki Avantaj ve Dezavantaj, Gömülü Sistem Kavramı ve Kullanım alanları   
