@@ -20,3 +20,5 @@ PWM, ADC ve kesme mekanizmalarının (interrupt) işleyişini açıklayabilme.
 SPI, I2C, UART, USB ve CAN-Bus gibi iletişim protokollerini açıklayarak, bunların kullanım alanlarını belirleyebilme.
 Motorola, Intel ve MC68000 gibi farklı mikroişlemci ailelerinin mimari özelliklerini ve iç yapısını inceleyebilme.
 Uygulama projeleri ile gömülü sistemlerin tasarım ve gerçeklenmesini yapabilme.
+
+HAFTALIK DERS KONULARI
