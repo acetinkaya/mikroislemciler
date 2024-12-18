@@ -30,7 +30,7 @@ HAFTALIK DERS KONULARI
 6. Hafta - Mikroişlemci Haberleşme Protokolleri;, SPI Haberleşme (Serial Peripheral Interface), i2c Haberleşme (Inter-Integrated Circuit), UART (Universal Asynchronous Receiver-Transmitter) Seri Haberleşme, USB (Universal Serial Bus) Haberleşme ve CAN-Bus (Controller Area Network) Haberleşme
 7. Hafta - Vize Sınavı Haftası
 8. Hafta - Motorola MC6800 Mikroişlemci Ailesi
-9. Hafta - BM Öğrenci Uygulama Projelerinin Kontrol Haftası
+9. Hafta - Intel 8080 Mikroişlemci Ailesi
 10. Hafta - Bulanık Mantık ve Python Uygulaması - 1
 11. Hafta - Bulanık Mantık ve Python Uygulaması - 2
 12. Hafta - Bulanık Mantık ve Python Uygulaması - 3
