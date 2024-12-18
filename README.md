@@ -26,7 +26,7 @@ HAFTALIK DERS KONULARI
 2. Hafta - Mikroişlemciler  gerçekleştirdiği fonksiyonlar ve genel çalışması, Kodlayıcılar ve kod çözücülerin işleyişi ve kullanımı
 3. Hafta - Sayısal Entegreler ve Mikroişlemciyi oluşturan bileşenler (RAM, ROM, ALU, CPU, REGISTERS, ADC, DMA, USART, SPI, i2C, DAC, TIMER, PWM, ADRESS BUS, DATA BUS, CONTROL BUS, IO, INTERRUPT)
 4. Hafta - Mikroişlemci mimarileri (Von Neuman ve Harvard), Mikroişlemci CISC ve RICS Komut Tasarımı Mimarileri ve Genel Amaçlı Giriş/Çıkış - GPIO Yapılandırması (General Purpose Input/Output) 
-5. Hafta - BM üzerinde; Giriş Çıkış Değişkenlerin Tanımlanması, Üyelik İşlemleri, Bulandırma
+5. Hafta - Mikroişlemci Temel Zamanlayıcıları - Kesme - Interrupt, PWM (Pulse Width Modulation), Analog Dijital Çevirici ADC (Analog-to-Digital Converter) Hesaplamaları
 6. Hafta - BM üzerinde; Bulanık Çıkarım (Mamdani, Sugeno, Tsukatomo), Bulanık Kuralların Belirlenmesi
 7. Hafta - BM Durulama Yöntemleri (Ağırlık Merkezi Yöntemi, Alan Açı Ortay Yöntemi, En Büyük Üyelik Dereceli Elemanların Orta Noktası Yöntemi)
 8. Hafta - Vize Sınavı Haftası
