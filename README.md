@@ -35,5 +35,5 @@ HAFTALIK DERS KONULARI
 11. Hafta - İntel 8088 & 8086 Mikroişlemci mimarileri
 12. Hafta - STM32F407 Mikroişlemci mimarisi
 13. Hafta - Quantum Bilgisayar Mimarisi ve Uygulamaları (Mimarisi, Hesaplama Temelleri)
-14. Hafta - Quantum Bilgisayar Mimarisi ve Uygulamaları
+14. Hafta - Quantum Bilgisayar Mimarisi ve Uygulamaları (Algoritmaları, YZ destekli hesaplamalar)
 15. Hafta - Final Sınavı Haftası
