@@ -1,3 +1,5 @@
 # mikroislemciler
 
 MİKROİŞLEMCİLER - MICROPROCESSORS DERS İÇERİĞİ
+
+DERS BİLGİLERİ
