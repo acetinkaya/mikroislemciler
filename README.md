@@ -17,3 +17,4 @@ Mikroişlemci bileşenlerini (RAM, ROM, CPU, vb.) tanımlayabilme ve her bir bil
 Von Neuman ve Harvard mimarileri arasındaki farkları kavrayarak, mikroişlemci mimarilerini değerlendirebilme.
 Giriş/çıkış birimlerini ve GPIO yapılandırmasını kullanarak mikroişlemci tabanlı temel bir sistem tasarlayabilme.
 PWM, ADC ve kesme mekanizmalarının (interrupt) işleyişini açıklayabilme.
+SPI, I2C, UART, USB ve CAN-Bus gibi iletişim protokollerini açıklayarak, bunların kullanım alanlarını belirleyebilme.
