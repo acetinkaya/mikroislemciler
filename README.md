@@ -22,7 +22,7 @@ Motorola, Intel ve MC68000 gibi farklı mikroişlemci ailelerinin mimari özelli
 Uygulama projeleri ile gömülü sistemlerin tasarım ve gerçeklenmesini yapabilme.
 
 HAFTALIK DERS KONULARI
-1. Hafta - Bulanık Mantık (BM) Ders Tanıtımı, Temel Kavramları ve Tarihçesi
+1. Hafta - Sayısal Bilgisayarın Blok Şeması, Mantıksal Operatörler, Mikrodenetleyici ve Mikrodenetleyici Kavramları, Mikrodenetleyici ve Mikrodenetleyici Arasındaki Farklar, Mikrodenetleyici ve Mikrodenetleyici Arasındaki Avantaj ve Dezavantaj, Gömülü Sistem Kavramı ve Kullanım alanları 
 2. Hafta - Python Programlama Dili ile BM Uygulama Geliştirme Ortamının Hazırlanması, Python Kütüphaneleri, Veri Bilimi ve BM Avantaj, Dezavantaj, Uygulama Alanları
 3. Hafta - BM Uygulama Projesinin Belirlenmesi, Proje İşlem Adımlarının Oluşturulması, Bulanık Küme Kavramı ve Kural Tabanı
 4. Hafta - BM Üyelik Fonksiyonları (Üçgen, Yamuk, Gaussian, Sigmoid), Sözel Değişkenler ve IF-THEN kuralları
