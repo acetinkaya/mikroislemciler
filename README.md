@@ -29,7 +29,7 @@ HAFTALIK DERS KONULARI
 5. Hafta - Mikroişlemci Temel Zamanlayıcıları - Kesme - Interrupt, PWM (Pulse Width Modulation), Analog Dijital Çevirici ADC (Analog-to-Digital Converter) Hesaplamaları
 6. Hafta - Mikroişlemci Haberleşme Protokolleri;, SPI Haberleşme (Serial Peripheral Interface), i2c Haberleşme (Inter-Integrated Circuit), UART (Universal Asynchronous Receiver-Transmitter) Seri Haberleşme, USB (Universal Serial Bus) Haberleşme ve CAN-Bus (Controller Area Network) Haberleşme
 7. Hafta - Vize Sınavı Haftası
-8. Hafta - 
+8. Hafta - Motorola MC6800 Mikroişlemci Ailesi
 9. Hafta - BM Öğrenci Uygulama Projelerinin Kontrol Haftası
 10. Hafta - Bulanık Mantık ve Python Uygulaması - 1
 11. Hafta - Bulanık Mantık ve Python Uygulaması - 2
