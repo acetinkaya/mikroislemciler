@@ -22,3 +22,18 @@ Motorola, Intel ve MC68000 gibi farklı mikroişlemci ailelerinin mimari özelli
 Uygulama projeleri ile gömülü sistemlerin tasarım ve gerçeklenmesini yapabilme.
 
 HAFTALIK DERS KONULARI
+1. Hafta - Bulanık Mantık (BM) Ders Tanıtımı, Temel Kavramları ve Tarihçesi
+2. Hafta - Python Programlama Dili ile BM Uygulama Geliştirme Ortamının Hazırlanması, Python Kütüphaneleri, Veri Bilimi ve BM Avantaj, Dezavantaj, Uygulama Alanları
+3. Hafta - BM Uygulama Projesinin Belirlenmesi, Proje İşlem Adımlarının Oluşturulması, Bulanık Küme Kavramı ve Kural Tabanı
+4. Hafta - BM Üyelik Fonksiyonları (Üçgen, Yamuk, Gaussian, Sigmoid), Sözel Değişkenler ve IF-THEN kuralları
+5. Hafta - BM üzerinde; Giriş Çıkış Değişkenlerin Tanımlanması, Üyelik İşlemleri, Bulandırma
+6. Hafta - BM üzerinde; Bulanık Çıkarım (Mamdani, Sugeno, Tsukatomo), Bulanık Kuralların Belirlenmesi
+7. Hafta - BM Durulama Yöntemleri (Ağırlık Merkezi Yöntemi, Alan Açı Ortay Yöntemi, En Büyük Üyelik Dereceli Elemanların Orta Noktası Yöntemi)
+8. Hafta - Vize Sınavı Haftası
+9. Hafta - BM Öğrenci Uygulama Projelerinin Kontrol Haftası
+10. Hafta - Bulanık Mantık ve Python Uygulaması - 1
+11. Hafta - Bulanık Mantık ve Python Uygulaması - 2
+12. Hafta - Bulanık Mantık ve Python Uygulaması - 3
+13. Hafta - Bulanık Mantık ve Python Uygulaması - 4
+14. Hafta - BM Dersi Öğrenci Uygulama Projelerinin Sunumları
+15. Hafta - Final Sınavı Haftası
