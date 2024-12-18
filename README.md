@@ -11,3 +11,5 @@ Amaç: Bu dersin amacı,  sayısal bilgisayar mimarisini, mikroişlemci ve mikro
 DERSİN ÖĞRENME ÇIKTILARI
 
 Sayısal bilgisayarın blok şeması ve mantıksal operatörleri açıklayabilme.
+
+Mikroişlemci ve mikrodenetleyici arasındaki temel farkları ve bu yapıların avantaj/dezavantajlarını karşılaştırabilme.
