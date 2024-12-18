@@ -31,7 +31,7 @@ HAFTALIK DERS KONULARI
 7. Hafta - Vize Sınavı Haftası
 8. Hafta - Motorola MC6800 Mikroişlemci Ailesi
 9. Hafta - Intel 8080 Mikroişlemci Ailesi
-10. Hafta - Bulanık Mantık ve Python Uygulaması - 1
+10. Hafta - MC68000 Mikroişlemci Ailesi
 11. Hafta - Bulanık Mantık ve Python Uygulaması - 2
 12. Hafta - Bulanık Mantık ve Python Uygulaması - 3
 13. Hafta - Bulanık Mantık ve Python Uygulaması - 4
