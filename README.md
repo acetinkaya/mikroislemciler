@@ -19,7 +19,9 @@ Giriş/çıkış birimlerini ve GPIO yapılandırmasını kullanarak mikroişlem
 PWM, ADC ve kesme mekanizmalarının (interrupt) işleyişini açıklayabilme.  
 SPI, I2C, UART, USB ve CAN-Bus gibi iletişim protokollerini açıklayarak, bunların kullanım alanlarını belirleyebilme.  
 Motorola, Intel ve MC68000 gibi farklı mikroişlemci ailelerinin mimari özelliklerini ve iç yapısını inceleyebilme.  
-Quantum hesaplama temellerini öğrenerek quantum bilgisayarların klasik bilgisayarlardan farklarını kavrayabilir.
+Quantum hesaplama temellerini öğrenerek quantum bilgisayarların klasik bilgisayarlardan farklarını kavrayabilir.  
+Hem klasik hem de modern hesaplama teknolojilerinin gelecekteki uygulama alanlarına yönelik öngörülerde bulunabilir.
+
 
 HAFTALIK DERS KONULARI
 1. Hafta - Sayısal Bilgisayarın Blok Şeması, Mantıksal Operatörler, Mikrodenetleyici ve Mikrodenetleyici Kavramları, Mikrodenetleyici ve Mikrodenetleyici Arasındaki Farklar, Mikrodenetleyici ve Mikrodenetleyici Arasındaki Avantaj ve Dezavantaj, Gömülü Sistem Kavramı ve Kullanım alanları   
